@@ -1,26 +1,20 @@
 [
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/14161571"
-  },
-  {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
+    "name": "TG",
+    "icon": "/images/icon/telegram.png",
     "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1585463018"
+    "url": "https://t.me/itsukisu"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:sam@z1er.cn"
+    "url": "mailto:sam@mooe.moe"
   },
   {
-    "name": "网易云",
-    "icon": "/images/icon/music.png",
-    "tip": "听我的歌",
-    "url": "https://music.163.com/#/user/home?id=77134887"
+    "name": "!",
+    "icon": "/images/icon/warn.png",
+    "tip": "!",
+    "url": "?"
   }
 ]
