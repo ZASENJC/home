@@ -1,23 +1,18 @@
 [
   {
+    "icon": "NotesMedical",
+    "name": "日常",
+    "link": "https://m.mooe.moe/"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://blog.z1er.cn/"
   },
   {
-    "icon": "NotesMedical",
-    "name": "日常",
-    "link": "https://m.z1er.cn/"
-  },
-  {
-    "icon": "Images",
+    "icon": "Album",
     "name": "相簿",
     "link": "https://p.z1er.cn/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://m.mooe.moe/"
   },
   {
     "icon": "Cloud",
@@ -26,7 +21,12 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
+    "name": "存活监测",
     "link": "https://status.mooe.moe/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "探针",
+    "link": "https://nz.mooe.moe/"
   }
 ]
