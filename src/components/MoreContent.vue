@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">“你们对我的百般注解和识读，并不构成万分之一的我，却是一览无遗的你们。”</div>
+  <div class="more-content">“你们对我的百般注解和识读，并不构成万分之一的我<br>却是一览无遗的你们。”</div>
 </template>
 
 <style lang="scss" scoped>
